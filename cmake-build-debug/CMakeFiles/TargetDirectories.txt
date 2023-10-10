@@ -1,0 +1,3 @@
+G:/STUDY DATA BASE/C++project/MineClearance/cmake-build-debug/CMakeFiles/MineClearance.dir
+G:/STUDY DATA BASE/C++project/MineClearance/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/STUDY DATA BASE/C++project/MineClearance/cmake-build-debug/CMakeFiles/rebuild_cache.dir
